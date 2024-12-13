@@ -67,6 +67,7 @@
 - Palki Sharma Upadhyay
 - Karishma Mehta
 - https://www.youtube.com/@askvinh
+- Sushmita Sen
 
 ### Life Changing Books
 - The Magic by Rhonda Byrne https://amzn.in/d/8cAxv3f
