@@ -17,6 +17,7 @@
 - Recursion + Backtracking patterns: https://youtu.be/yVdKa8dnKiE?si=UW55tqC3gNZh5YX2 ( Highly Recommended )
 - 7 Day: https://docs.google.com/spreadsheets/d/1k6hcdNsmBPxSPqaqmUpRKqBjax1-miMaRRKcbscL3ow/edit?gid=0#gid=0
 - Book: https://amzn.in/d/iml5gVg
+- Heap: https://youtu.be/hW8PrQrvMNc?si=UmUWyQLUymy2Dli0
 
 
 
