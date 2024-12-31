@@ -34,6 +34,9 @@ https://youtu.be/4WjtQjPQGIs?si=9bS3Z2IdCxKN57Ov
 - https://youtu.be/5hqLNHCq_l8?si=RlwRBWpZhvYhY5h4
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+### Node.js Tutorial
+- https://youtu.be/BLl32FvcdVM?si=Y3_DZrjGfd23ioui
+
 ### 5. SQL
 - https://youtu.be/hlGoQC332VM?si=GBC34Qvg6HhPi4vs
 
