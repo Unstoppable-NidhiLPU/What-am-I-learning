@@ -57,6 +57,9 @@ https://youtu.be/4WjtQjPQGIs?si=9bS3Z2IdCxKN57Ov
 - https://www.youtube.com/@thecodedose
 - https://www.youtube.com/@NeetCode
 
+### Typing Skills:
+- https://youtu.be/1ArVtCQqQRE?si=ceypo-VkWUJ_ktlo
+
 ### Overall Development 
 - https://www.youtube.com/@warikoo
 - https://www.youtube.com/@AleenaRaisLive
