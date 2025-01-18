@@ -18,6 +18,7 @@
 - 7 Day: https://docs.google.com/spreadsheets/d/1k6hcdNsmBPxSPqaqmUpRKqBjax1-miMaRRKcbscL3ow/edit?gid=0#gid=0
 - Book: https://amzn.in/d/iml5gVg
 - Heap: https://www.geeksforgeeks.org/batch/dsa-4/track/DSASP-Heap/
+- HashMap Implementation in java: https://youtu.be/KDZ_IXvpMG4?si=p4nbn3cVOz6NK1yj
 
 
 
